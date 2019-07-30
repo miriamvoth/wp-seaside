@@ -3,7 +3,8 @@ Custom Wordpress theme
 
 ## Prerequisites
 Add folder /img with a background image inside of theme folder. Path in style.css needs to be updated appropriately.
-Advanced Custom Field PlugIn has to be installed in Wordpress. For Posts and Pages are the following fields defined in a field group:
+Add the theme folder (wp-seaside) to Wordpress.
+Install Advanced Custom Field PlugIn in Wordpress. For Posts and Pages are the following fields defined in a field group:
 
 ### Field group
 
@@ -26,8 +27,3 @@ landscape : 1 column (-> image above text, both full width)
 
 
 ## Site Layout
-
-
-
-
-
