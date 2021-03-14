@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Muli:400,600|Overlock:400,700" rel="stylesheet">
+    <!--<link href="https://fonts.googleapis.com/css?family=Muli:400,600|Overlock:400,700" rel="stylesheet">-->
     <?php wp_head(); ?>
 </head>
 
